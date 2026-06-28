@@ -1,4 +1,4 @@
-<img width="1440" height="480" alt="image" src="https://github.com/user-attachments/assets/317f8d3d-02f3-4e60-a0c0-e33425e62e1d" /># rl-racing-agent
+# rl-racing-agent
 
 A reinforcement learning agent that learns to drive around a 2D oval race track from scratch. Built as part of Week 4 of my Robotics and AI coursework.
 
@@ -34,7 +34,7 @@ The agent starts with zero knowledge of the track and learns purely through tria
 
 Clear upward trend in reward over training episodes — agent went from avg reward of -2.64 in first 10 episodes to +136.67 in last 10 episodes.
 
-![Training curve](![Uploading image.png…]
+![Training curve]<img width="1440" height="480" alt="image" src="https://github.com/user-attachments/assets/317f8d3d-02f3-4e60-a0c0-e33425e62e1d" />
 
 
 ## Interesting failure
